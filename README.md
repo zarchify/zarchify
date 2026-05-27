@@ -12,7 +12,7 @@ My languages of choice are Python, Luau, and Java.
 ![Rojo](https://img.shields.io/badge/Rojo-cba6f7?style=flat&logo=roblox&logoColor=1e1e2e)
 ![VSCode](https://img.shields.io/badge/VSCode-cba6f7?style=flat&logo=visualstudiocode&logoColor=1e1e2e)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NotMirrox&theme=catppuccin-frappe&hide_border=true)](https://github.com/zarchify)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zarchify&theme=catppuccin-frappe&hide_border=true)](https://github.com/zarchify)
 
 ---
 
