@@ -1,7 +1,7 @@
 # Hey! 👋
 
 I'm Zarch, a college educated software engineer focused on **clean, scalable code**.  
-I freelance on Roblox in my freetime, and build Roblox games end-to-end.
+I freelance on Roblox in my freetime and build Roblox games end-to-end.
 
 My languages of choice are Python, Luau, and Java.
 
